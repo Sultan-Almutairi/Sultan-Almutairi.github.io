@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Sultan Almutairi is currently an Assistant Professor of Software Engineering at Shaqra University (https://www.su.edu.sa/en). He is interested in Software Engineering, with a focus on Model-based Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML) systems that include GenAI and RL approaches. 
+Dr. Sultan Almutairi is currently an Assistant Professor of Software Engineering at [Shaqra University](https://www.su.edu.sa/en). He is interested in Software Engineering, with a focus on Model-based Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML) systems that include GenAI and RL approaches. 
 He received his Ph.D. degree from the University of York (UK), Masters degree in Computer Science from the University of Bangor (UK), and Bachelors degree in Computer Science (CS) from Shaqra University (KSA). Sultan is an active researcher in automated software engineering, formal methods, AI, IoT, and data science. He has numerous research articles published in top-ranked international journals and conferences.
 
 
