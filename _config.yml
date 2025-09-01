@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sultan Owaytiq Almutairi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Assistant Professor"
+  location         : "Shaqra, KSA"
+  employer         : "Shaqra University"
+  uri              : "https://www.su.edu.sa/en"
+  email            : "sultan@su.edu.sa" 
 
   # Academic websites
   academia         : # URL
