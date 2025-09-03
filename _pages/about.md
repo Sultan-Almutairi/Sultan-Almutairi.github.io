@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Sultan Almutairi is currently an Assistant Professor of Software Engineering at [Shaqra University](https://www.su.edu.sa/en). He is interested in Software Engineering, with a focus on Model-based Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML) systems that include GenAI and RL approaches. 
-He received his Ph.D. degree from [University of York (UK)](https://www.york.ac.uk/), Masters degree in Computer Science from [University of Bangor (UK)](https://www.bangor.ac.uk/), and Bachelors degree in Computer Science (CS) from [Shaqra University (KSA)](https://www.su.edu.sa/en). Sultan is an active researcher in automated software engineering, formal methods, AI, IoT, and data science. He has numerous research articles published in top-ranked international journals and conferences.
+I am currently working as an Assistant Professor (Software Engineering) at the Department of Computer Science of [Shaqra University](https://www.su.edu.sa/en) (KSA). Previously, I worked as a Research Associate at the [Computer Science Department](http://cs.york.ac.uk/), University of York (UK). Previously I was a Research Associate at the Department of Computer Science of the [University of York](http://cs.york.ac.uk/), where I collaborated in the research and development of Model Transformation tools. My research interests are on (Flexible) Model-Driven Engineering, Artificial Intelligence, Big Data Analytics and Requirements Engineering.
+
+In 2018, I started my PhD project titled "Preserving and Synchronising Hand-written Text in Model-to-Text Transformation" supervised by [Prof. Dimitris Kolovos](https://www-users.york.ac.uk/dimitris.kolovos/) and [Dr. Thanos Zolotas](https://pure.york.ac.uk/portal/en/persons/athanasios-zolotas). In 2015, I attended the MSc course in Computer Science from the University of Bangor (UK). I hold a 4yrs-BSc in Computer Science with the First Class Honor from the [University of Shaqra](https://www.su.edu.sa/en) (KSA).
 
 
 A data-driven personal website
